@@ -1,10 +1,12 @@
-import React from 'react';
+import React from "react";
+import { Background } from "./components/Background";
+import { StartScreen } from "./components/StartScreen";
 
 function App() {
   return (
-    <div>
-    
-    </div>
+    <>
+      <StartScreen />
+    </>
   );
 }
 
