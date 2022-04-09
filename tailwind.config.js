@@ -6,6 +6,10 @@ module.exports = {
         babyBlue: "#DEEBF8",
         lemony: "#FFFAD1",
         grayBackground: "#F5F7FB",
+        buttonColor: "#4D5B9E",
+      },
+      fontFamily: {
+        Karla: ["Karla", "sans-serif"],
       },
     },
   },
