@@ -10,10 +10,10 @@ type Props = {
 const Background = ({ children, className }: Props) => {
   return (
     <div className={`bg-grayBackground h-screen relative ${className ? className : ""}`}>
-      <div className="absolute bottom-[-100px] left-[-177px]">
+      <div className="absolute bottom-[-100px] left-[-177px] -z-10">
         <img src={Blob} alt="blob" />
       </div>
-      <div className="absolute top-[-100px] right-[-100px] rotate-[-128.49deg]">
+      <div className="absolute top-[-100px] right-[-100px] rotate-[-128.49deg] -z-10">
         <img src={YellowBlob} alt="blob" />
       </div>
       {children}
