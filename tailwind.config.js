@@ -9,7 +9,8 @@ module.exports = {
         customViolet: "#4D5B9E",
         textColor: "#293264",
         customGray: "#D6DBF5",
-        customGreen: "#94D7A2"
+        customGreen: "#94D7A2",
+        customPink: "#F8BCBC",
       },
       fontFamily: {
         Karla: ["Karla", "sans-serif"],
