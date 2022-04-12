@@ -4,6 +4,6 @@ A solo project that you have to implement yourself from [Learn React for Free](h
 
 ## Requirements
 
-- [] Two screens (start and questions)
-- [] Pull 5 questions from [OTDB API](https://opentdb.com/api_config.php)
-- [] Tally correct answers after "Check answers" is clicked
+- [x] Two screens (start and questions)
+- [x] Pull 5 questions from [OTDB API](https://opentdb.com/api_config.php)
+- [x] Tally correct answers after "Check answers" is clicked
