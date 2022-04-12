@@ -8,7 +8,7 @@ type Props = {
 
 const StartScreen = ({ start }: Props) => {
   return (
-    <Background className="w-full flex items-center justify-center">
+    <Background className="w-full flex h-screen items-center justify-center">
       <div className="flex flex-col gap-5 items-center px-5">
         <h1 className="text-4xl font-bold font-Karla text-textColor">
           Quizzical
