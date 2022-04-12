@@ -1,11 +1,11 @@
 import React from "react";
-import { Background } from "./components/Background";
-import { StartScreen } from "./components/StartScreen";
+import { Quiz } from "./components/Quiz";
 
 function App() {
+
   return (
     <>
-      <StartScreen />
+      <Quiz />
     </>
   );
 }
